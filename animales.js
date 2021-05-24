@@ -23,7 +23,7 @@ let animales=[
     }
 ]
 
-for (let i = 0; i < nombre.length; i++) {
+/*for (let i = 0; i < nombre.length; i++) {
     let nombre=nombre[i]*animales.length
    }
 document.getElementById("nombre").innerHTML=`
@@ -41,5 +41,6 @@ for (let i = 0; i < tipo.length; i++) {
 document.getElementById("tipo").innerHTML=`
 <p>${tipo}</p>
 `
-
+INECESARIO
+*/
 module.exports=animales
